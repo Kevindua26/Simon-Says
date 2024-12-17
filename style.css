@@ -100,3 +100,38 @@ h2 {
   Error Red: #B22222
   Overlay Effect: rgba(178, 34, 34, 0.4).
 */
+
+@media screen and (max-width: 500px) {
+  .btn-container {
+    height: 400px;
+    width: 400px;
+  }
+
+  .btn {
+    height: 180px;
+    width: 180px;
+    border: 5px solid #C0A772;
+    border-radius: 20px;
+    /* margin: 5px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .btn-container {
+    width: 100%;
+  }
+
+  .btn {
+    height: 40%;
+    width: 40%;
+    border: 5px solid #C0A772;
+    border-radius: 20px;
+    /* margin: 5px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
