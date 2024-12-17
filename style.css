@@ -1,0 +1,102 @@
+body {
+  /* background-color: #EAE7E2; */
+  background-color: #fff;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  width: 100%;
+  color: #333333;
+  letter-spacing: 2px;
+  font-size: 50px;
+  margin-bottom: 10px
+}
+
+h2 {
+  width: 100%;
+  color: #333333;
+  font-size: 15 jjjpx;
+  /* text-shadow: 1px 1px 5px #A67C00; */
+}
+
+.btn-container {
+  /* border: 1px solid #000; */
+  height: 440px;
+  width: 440px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+  border: 5px solid #C0A772;
+  border-radius: 20px;
+  /* margin: 5px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.amber {
+  background-color: #E7C47F;  /* #F2D8A4 */
+}
+
+.amberflash {
+  background-color: #F2D8A4;
+}
+
+.green {
+  background-color: #A8B497;  /* #BCC9A7 */
+}
+
+.greenflash {
+  background-color: #BCC9A7;
+}
+
+.gray {
+  background-color: #8B9EA3;  /* #A3B3B8 */
+}
+
+.grayflash {
+  background-color: #A3B3B8;
+}
+
+.blue {
+  background-color: #556A8A;  /* #6B7F9F */
+}
+
+.blueflash {
+  background-color: #6B7F9F;
+}
+
+.flash {
+  background-color: #fff;
+}
+
+.userflash {
+  background-color: green;
+}
+
+.reduserflash {
+  background-color: red;
+}
+
+.error {
+  background-color: #B22222;
+}
+
+/*
+  glow effect ->   box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);; 
+  Error Red: #B22222
+  Overlay Effect: rgba(178, 34, 34, 0.4).
+*/
