@@ -23,7 +23,7 @@ A fun and interactive **Simon Says game** built using HTML, CSS, and JavaScript.
 - JavaScript (ES6)
 
 ## Screenshots
-![Game Interface](C:\Users\Kevin\Pictures\Screenshots\Screenshot 2024-12-17 231221)
+![Game Interface](assets/Screenshot%202024-12-17%20231221.png)
 
 ## License
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
