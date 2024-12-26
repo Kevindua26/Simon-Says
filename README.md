@@ -8,7 +8,7 @@ A fun and interactive **Simon Says game** built using HTML, CSS, and JavaScript.
 - Interactive button animations and sounds
 
 ## Demo
-[Play the Game Here!](https://your-username.github.io/simon-says-game/)
+[Play the Game Here!](https://kevindua26.github.io/Simon-Says/)
 
 ## How to Run
 1. Clone this repository:
